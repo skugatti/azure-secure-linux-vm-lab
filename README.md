@@ -21,6 +21,9 @@ This project was built to strengthen hands-on cloud engineering skills aligned w
 - UFW (Linux firewall)
 - SSH key-based authentication
 
+## 🏗 Architecture Diagram
+
+![Architecture Diagram](azure-secure-linux-vm-architecture.drawio.png)
 ---
 
 ## 🚀 Deployment Steps
